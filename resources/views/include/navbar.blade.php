@@ -11,11 +11,6 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <!-- Left Side Of Navbar -->
           <ul class="navbar-nav mr-auto">
-              <li class="nav-item active">
-                <a class="nav-link waves-effect waves-light" href="/">BlogApp
-                  <span class="sr-only">(current)</span>
-                </a>
-              </li>
               <li class="nav-item">
                 <a class="nav-link waves-effect waves-light" href="/posts">Posts</a>
               </li>
